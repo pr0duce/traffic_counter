@@ -1,0 +1,18 @@
+Based on the instructions I've found
+
+
+ - Arduino UNO
+   - $35
+ - Pressure sensor MPX5500DP (500kPа)
+   - $10 http://www.digikey.com/product-search/en?vendor=0&keywords=mpx5500dp
+ - Box G2100
+ - Aquarium tubing
+   - 4 Meters
+   - $5 http://www.amazon.com/gp/product/B0087WHNPS/ref=ox_sc_mini_detail?ie=UTF8&psc=1&smid=A1THAZDOWP300U
+ - 9V battery
+   - $1.25 Amazon
+ - 9V battery adapter
+   - $10/8 ( Amazon
+ - buzzer
+   - $0.75 http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=188681047&uq=635895317179041719
+
